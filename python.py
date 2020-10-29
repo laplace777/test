@@ -1,0 +1,1 @@
+print("huseyin erkin atak")
